@@ -1,3 +1,5 @@
 # HITACHI
-Nama : Nanda Amelia
-Nim  : 191402015
+- Nama : Nanda Amelia
+- Nim  : 191402015
+
+
